@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Pedro",
+    "email": "pedro@hotmail.es",
+    "ciudad": "Cádiz"
+  },
+  {
+    "id": 2,
+    "name": "Miguel",
+    "email": "Miguel@hotmail.es",
+    "ciudad": "Santander"
+  },
+  {
+    "id": 3,
+    "name": "Manuel",
+    "email": "Manuel@hotmail.es",
+    "ciudad": "Bilbao"
+  },
+  {
+    "id": 4,
+    "name": "Carla",
+    "email": "pedro@hotmail.es",
+    "ciudad": "Madrid"
+  },
+  {
+    "id": 5,
+    "name": "Sandra",
+    "email": "Sandra@hotmail.es",
+    "ciudad": "Barcelona"
+  }
+]
